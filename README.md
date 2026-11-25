@@ -114,8 +114,6 @@ Currently working at **Bisk Farm**, focusing on Power BI dashboards, data analys
 
 🔗 [GitHub Profile](https://github.com/AsifNasir20)
 
-🔗 [GitHub Profile](https://github.com/AsifNasir20)
-
 ---
 
 ⭐ This repository documents my continuous learning and practical SQL development.
