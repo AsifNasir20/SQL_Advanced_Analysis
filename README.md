@@ -106,9 +106,13 @@ Through this practice, I strengthened my understanding of:
 
 **Asif Hossain Nasir**
 
-Statistics Graduate | Aspiring Data Analyst
+**Data Analyst | Power BI | SQL | Advanced Excel**
 
-**Technical Skills:** SQL | Power BI | Advanced Excel | Data Analytics
+Currently working at **Bisk Farm**, focusing on Power BI dashboards, data analysis, and reporting.
+
+**Technical Skills:** Power BI | SQL | Advanced Excel | Data Analytics
+
+🔗 [GitHub Profile](https://github.com/AsifNasir20)
 
 🔗 [GitHub Profile](https://github.com/AsifNasir20)
 
