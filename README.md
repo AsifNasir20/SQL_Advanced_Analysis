@@ -1,9 +1,5 @@
 # 📊 SQL Advanced Analytics
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Analytics](https://img.shields.io/badge/Focus-Advanced%20Analytics-0078D4?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/Project-SQL%20Portfolio-181717?style=for-the-badge&logo=github)
-
 ## 📌 Project Overview
 
 This repository showcases my learning and practical implementation of **Advanced SQL Analytics using Microsoft SQL Server**.
