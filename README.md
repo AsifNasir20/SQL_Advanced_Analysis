@@ -70,7 +70,7 @@ I have organized my SQL queries, datasets, and query output screenshots into sep
 | Category | Skills / Concepts |
 |---|---|
 | Database | Microsoft SQL Server |
-| Language | T-SQL |
+| Language | SQL |
 | Query Techniques | CTEs, Subqueries |
 | Joins | LEFT JOIN |
 | Aggregations | SUM, AVG, COUNT |
